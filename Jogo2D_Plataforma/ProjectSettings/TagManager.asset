@@ -6,6 +6,8 @@ TagManager:
   tags:
   - chao
   - cogumelo
+  - zumbi
+  - tiro
   layers:
   - Default
   - TransparentFX
